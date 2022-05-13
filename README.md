@@ -1,5 +1,7 @@
 # Conda Tutorial
 
+Conda is an open source cross-platform package management system and environment management system.
+
 ## License
 
 TBD
