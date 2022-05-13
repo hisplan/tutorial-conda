@@ -1,5 +1,13 @@
 # Miniconda
 
+## Anaconda vs. Miniconda
+
+Miniconda comes with Python and conda for managing packages and environments. This is the bare minimum.
+
+Anaconda starts with Miniconda, but additionally it installs a bunch of packages suited for data science such as pandas and numpy. Anaconda could be very easy and user-friendly, and you can jumpstart, but because it comes with a suite of pre-installed packages, it is very heavy, and many times you don't actually end up using all those packages. Also, when you need to deploy your work and figure out absolutely necessary minimal dependency list, starting from the bare minimum and installing packages as you needed is a better approach in my opinion.
+
+## Installation
+
 From a terminal window, enter the following command to download Miniconda:
 
 ```bash
