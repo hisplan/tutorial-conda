@@ -15,7 +15,7 @@ To check your Windows version and build number, press `Windows logo key + R`, ty
 At the Command Prompt or PowerShell interface, type the following command:
 
 ```
-systeminfo | findstr /B /C:"OS Name" /B /C:"OS Version
+systeminfo | findstr /B /C:"OS Name" /B /C:"OS Version"
 ```
 
 ## Install WSL
